@@ -1,0 +1,590 @@
+[
+  {
+    "state_name": "Alabama",
+    "abbreviation": "AL",
+    "year_admitted": 1819,
+    "population": 4903185,
+    "capital": "Montgomery",
+    "largest_cities": [
+      "Birmingham",
+      "Huntsville",
+      "Mobile"
+    ]
+  },
+  {
+    "state_name": "Alaska",
+    "abbreviation": "AK",
+    "year_admitted": 1959,
+    "population": 731545,
+    "capital": "Juneau",
+    "largest_cities": [
+      "Anchorage",
+      "Fairbanks",
+      "Juneau"
+    ]
+  },
+  {
+    "state_name": "Arizona",
+    "abbreviation": "AZ",
+    "year_admitted": 1912,
+    "population": 7278717,
+    "capital": "Phoenix",
+    "largest_cities": [
+      "Phoenix",
+      "Tucson",
+      "Mesa"
+    ]
+  },
+  {
+    "state_name": "California",
+    "abbreviation": "CA",
+    "year_admitted": 1850,
+    "population": 39538223,
+    "capital": "Sacramento",
+    "largest_cities": [
+      "Los Angeles",
+      "San Diego",
+      "San Jose"
+    ]
+  },
+  {
+    "state_name": "Colorado",
+    "abbreviation": "CO",
+    "year_admitted": 1876,
+    "population": 5773714,
+    "capital": "Denver",
+    "largest_cities": [
+      "Denver",
+      "Colorado Springs",
+      "Aurora"
+    ]
+  },
+  {
+    "state_name": "Connecticut",
+    "abbreviation": "CT",
+    "year_admitted": 1788,
+    "population": 3605944,
+    "capital": "Hartford",
+    "largest_cities": [
+      "Bridgeport",
+      "New Haven",
+      "Stamford"
+    ]
+  },
+  {
+    "state_name": "Delaware",
+    "abbreviation": "DE",
+    "year_admitted": 1787,
+    "population": 990837,
+    "capital": "Dover",
+    "largest_cities": [
+      "Wilmington",
+      "Dover",
+      "Newark"
+    ]
+  },
+  {
+    "state_name": "Florida",
+    "abbreviation": "FL",
+    "year_admitted": 1845,
+    "population": 21538187,
+    "capital": "Tallahassee",
+    "largest_cities": [
+      "Jacksonville",
+      "Miami",
+      "Tampa"
+    ]
+  },
+  {
+    "state_name": "Georgia",
+    "abbreviation": "GA",
+    "year_admitted": 1788,
+    "population": 10711908,
+    "capital": "Atlanta",
+    "largest_cities": [
+      "Atlanta",
+      "Augusta",
+      "Columbus"
+    ]
+  },
+  {
+    "state_name": "Hawaii",
+    "abbreviation": "HI",
+    "year_admitted": 1959,
+    "population": 1455271,
+    "capital": "Honolulu",
+    "largest_cities": [
+      "Honolulu",
+      "Pearl City",
+      "Hilo"
+    ]
+  },
+  {
+    "state_name": "Idaho",
+    "abbreviation": "ID",
+    "year_admitted": 1890,
+    "population": 1860123,
+    "capital": "Boise",
+    "largest_cities": [
+      "Boise",
+      "Meridian",
+      "Nampa"
+    ]
+  },
+  {
+    "state_name": "Illinois",
+    "abbreviation": "IL",
+    "year_admitted": 1818,
+    "population": 12812508,
+    "capital": "Springfield",
+    "largest_cities": [
+      "Chicago",
+      "Aurora",
+      "Rockford"
+    ]
+  },
+  {
+    "state_name": "Indiana",
+    "abbreviation": "IN",
+    "year_admitted": 1816,
+    "population": 6785528,
+    "capital": "Indianapolis",
+    "largest_cities": [
+      "Indianapolis",
+      "Fort Wayne",
+      "Evansville"
+    ]
+  },
+  {
+    "state_name": "Iowa",
+    "abbreviation": "IA",
+    "year_admitted": 1846,
+    "population": 3192406,
+    "capital": "Des Moines",
+    "largest_cities": [
+      "Des Moines",
+      "Cedar Rapids",
+      "Davenport"
+    ]
+  },
+  {
+    "state_name": "Kansas",
+    "abbreviation": "KS",
+    "year_admitted": 1861,
+    "population": 2937880,
+    "capital": "Topeka",
+    "largest_cities": [
+      "Wichita",
+      "Overland Park",
+      "Kansas City"
+    ]
+  },
+  {
+    "state_name": "Kentucky",
+    "abbreviation": "KY",
+    "year_admitted": 1792,
+    "population": 4505836,
+    "capital": "Frankfort",
+    "largest_cities": [
+      "Louisville",
+      "Lexington",
+      "Bowling Green"
+    ]
+  },
+  {
+    "state_name": "Louisiana",
+    "abbreviation": "LA",
+    "year_admitted": 1812,
+    "population": 4645184,
+    "capital": "Baton Rouge",
+    "largest_cities": [
+      "New Orleans",
+      "Baton Rouge",
+      "Shreveport"
+    ]
+  },
+  {
+    "state_name": "Maine",
+    "abbreviation": "ME",
+    "year_admitted": 1820,
+    "population": 1362359,
+    "capital": "Augusta",
+    "largest_cities": [
+      "Portland",
+      "Lewiston",
+      "Bangor"
+    ]
+  },
+  {
+    "state_name": "Maryland",
+    "abbreviation": "MD",
+    "year_admitted": 1788,
+    "population": 6065435,
+    "capital": "Annapolis",
+    "largest_cities": [
+      "Baltimore",
+      "Columbia",
+      "Germantown"
+    ]
+  },
+  {
+    "state_name": "Massachusetts",
+    "abbreviation": "MA",
+    "year_admitted": 1788,
+    "population": 7033469,
+    "capital": "Boston",
+    "largest_cities": [
+      "Boston",
+      "Worcester",
+      "Springfield"
+    ]
+  },
+  {
+    "state_name": "Michigan",
+    "abbreviation": "MI",
+    "year_admitted": 1837,
+    "population": 10077331,
+    "capital": "Lansing",
+    "largest_cities": [
+      "Detroit",
+      "Grand Rapids",
+      "Warren"
+    ]
+  },
+  {
+    "state_name": "Minnesota",
+    "abbreviation": "MN",
+    "year_admitted": 1858,
+    "population": 5700671,
+    "capital": "Saint Paul",
+    "largest_cities": [
+      "Minneapolis",
+      "Saint Paul",
+      "Rochester"
+    ]
+  },
+  {
+    "state_name": "Mississippi",
+    "abbreviation": "MS",
+    "year_admitted": 1817,
+    "population": 2961279,
+    "capital": "Jackson",
+    "largest_cities": [
+      "Jackson",
+      "Gulfport",
+      "Southaven"
+    ]
+  },
+  {
+    "state_name": "Missouri",
+    "abbreviation": "MO",
+    "year_admitted": 1821,
+    "population": 6160281,
+    "capital": "Jefferson City",
+    "largest_cities": [
+      "Kansas City",
+      "Saint Louis",
+      "Springfield"
+    ]
+  },
+  {
+    "state_name": "Montana",
+    "abbreviation": "MT",
+    "year_admitted": 1889,
+    "population": 1085407,
+    "capital": "Helena",
+    "largest_cities": [
+      "Billings",
+      "Missoula",
+      "Great Falls"
+    ]
+  },
+  {
+    "state_name": "Nebraska",
+    "abbreviation": "NE",
+    "year_admitted": 1867,
+    "population": 1952570,
+    "capital": "Lincoln",
+    "largest_cities": [
+      "Omaha",
+      "Lincoln",
+      "Bellevue"
+    ]
+  },
+  {
+    "state_name": "Nevada",
+    "abbreviation": "NV",
+    "year_admitted": 1864,
+    "population": 3139658,
+    "capital": "Carson City",
+    "largest_cities": [
+      "Las Vegas",
+      "Henderson",
+      "Reno"
+    ]
+  },
+  {
+    "state_name": "New Hampshire",
+    "abbreviation": "NH",
+    "year_admitted": 1788,
+    "population": 1371246,
+    "capital": "Concord",
+    "largest_cities": [
+      "Manchester",
+      "Nashua",
+      "Concord"
+    ]
+  },
+  {
+    "state_name": "New Jersey",
+    "abbreviation": "NJ",
+    "year_admitted": 1787,
+    "population": 9288994,
+    "capital": "Trenton",
+    "largest_cities": [
+      "Newark",
+      "Jersey City",
+      "Paterson"
+    ]
+  },
+  {
+    "state_name": "New Mexico",
+    "abbreviation": "NM",
+    "year_admitted": 1912,
+    "population": 2117522,
+    "capital": "Santa Fe",
+    "largest_cities": [
+      "Albuquerque",
+      "Las Cruces",
+      "Rio Rancho"
+    ]
+  },
+  {
+    "state_name": "New York",
+    "abbreviation": "NY",
+    "year_admitted": 1788,
+    "population": 20374597,
+    "capital": "Albany",
+    "largest_cities": [
+      "New York City",
+      "Buffalo",
+      "Rochester"
+    ]
+  },
+  {
+    "state_name": "North Carolina",
+    "abbreviation": "NC",
+    "year_admitted": 1789,
+    "population": 10611862,
+    "capital": "Raleigh",
+    "largest_cities": [
+      "Charlotte",
+      "Raleigh",
+      "Greensboro"
+    ]
+  },
+  {
+    "state_name": "North Dakota",
+    "abbreviation": "ND",
+    "year_admitted": 1889,
+    "population": 779094,
+    "capital": "Bismarck",
+    "largest_cities": [
+      "Fargo",
+      "Bismarck",
+      "Grand Forks"
+    ]
+  },
+  {
+    "state_name": "Ohio",
+    "abbreviation": "OH",
+    "year_admitted": 1803,
+    "population": 11799448,
+    "capital": "Columbus",
+    "largest_cities": [
+      "Columbus",
+      "Cleveland",
+      "Cincinnati"
+    ]
+  },
+  {
+    "state_name": "Oklahoma",
+    "abbreviation": "OK",
+    "year_admitted": 1907,
+    "population": 3959353,
+    "capital": "Oklahoma City",
+    "largest_cities": [
+      "Oklahoma City",
+      "Tulsa",
+      "Norman"
+    ]
+  },
+  {
+    "state_name": "Oregon",
+    "abbreviation": "OR",
+    "year_admitted": 1859,
+    "population": 4237256,
+    "capital": "Salem",
+    "largest_cities": [
+      "Portland",
+      "Salem",
+      "Eugene"
+    ]
+  },
+  {
+    "state_name": "Pennsylvania",
+    "abbreviation": "PA",
+    "year_admitted": 1787,
+    "population": 13011844,
+    "capital": "Harrisburg",
+    "largest_cities": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown"
+    ]
+  },
+  {
+    "state_name": "Rhode Island",
+    "abbreviation": "RI",
+    "year_admitted": 1790,
+    "population": 1097379,
+    "capital": "Providence",
+    "largest_cities": [
+      "Providence",
+      "Warwick",
+      "Cranston"
+    ]
+  },
+  {
+    "state_name": "South Carolina",
+    "abbreviation": "SC",
+    "year_admitted": 1788,
+    "population": 5210095,
+    "capital": "Columbia",
+    "largest_cities": [
+      "Charleston",
+      "Columbia",
+      "North Charleston"
+    ]
+  },
+  {
+    "state_name": "South Dakota",
+    "abbreviation": "SD",
+    "year_admitted": 1889,
+    "population": 903027,
+    "capital": "Pierre",
+    "largest_cities": [
+      "Sioux Falls",
+      "Rapid City",
+      "Aberdeen"
+    ]
+  },
+  {
+    "state_name": "Tennessee",
+    "abbreviation": "TN",
+    "year_admitted": 1796,
+    "population": 6916897,
+    "capital": "Nashville",
+    "largest_cities": [
+      "Nashville",
+      "Memphis",
+      "Knoxville"
+    ]
+  },
+  {
+    "state_name": "Texas",
+    "abbreviation": "TX",
+    "year_admitted": 1845,
+    "population": 29145505,
+    "capital": "Austin",
+    "largest_cities": [
+      "Houston",
+      "San Antonio",
+      "Dallas"
+    ]
+  },
+  {
+    "state_name": "Utah",
+    "abbreviation": "UT",
+    "year_admitted": 1896,
+    "population": 3271616,
+    "capital": "Salt Lake City",
+    "largest_cities": [
+      "Salt Lake City",
+      "West Valley City",
+      "Provo"
+    ]
+  },
+  {
+    "state_name": "Vermont",
+    "abbreviation": "VT",
+    "year_admitted": 1791,
+    "population": 643503,
+    "capital": "Montpelier",
+    "largest_cities": [
+      "Burlington",
+      "South Burlington",
+      "Rutland"
+    ]
+  },
+  {
+    "state_name": "Virginia",
+    "abbreviation": "VA",
+    "year_admitted": 1788,
+    "population": 8626207,
+    "capital": "Richmond",
+    "largest_cities": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake"
+    ]
+  },
+  {
+    "state_name": "Washington",
+    "abbreviation": "WA",
+    "year_admitted": 1889,
+    "population": 7693612,
+    "capital": "Olympia",
+    "largest_cities": [
+      "Seattle",
+      "Spokane",
+      "Tacoma"
+    ]
+  },
+  {
+    "state_name": "West Virginia",
+    "abbreviation": "WV",
+    "year_admitted": 1863,
+    "population": 1793716,
+    "capital": "Charleston",
+    "largest_cities": [
+      "Charleston",
+      "Huntington",
+      "Morgantown"
+    ]
+  },
+  {
+    "state_name": "Wisconsin",
+    "abbreviation": "WI",
+    "year_admitted": 1848,
+    "population": 5893718,
+    "capital": "Madison",
+    "largest_cities": [
+      "Milwaukee",
+      "Madison",
+      "Green Bay"
+    ]
+  },
+  {
+    "state_name": "Wyoming",
+    "abbreviation": "WY",
+    "year_admitted": 1890,
+    "population": 576851,
+    "capital": "Cheyenne",
+    "largest_cities": [
+      "Cheyenne",
+      "Casper",
+      "Laramie"
+    ]
+  }
+]
